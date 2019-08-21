@@ -1,11 +1,35 @@
 # Cyber Security Roadmap
+
+# Pre-requisites
+* Computer Networking
+* Language: Python(recommended)
+* Web Technologies: PHP/JSP/ASP/ASPX
+
+# Domain Priorities for CyberSecurity Career
+        * Network Hacking/Security
+                        ||      
+                        ||
+                        \/
+        * Web App. Hacking/Security
+                        ||      
+                        ||
+                        \/
+        * VAPT (Vulnerabilty Assesment)
+                        ||      
+                        ||
+                        \/
+        * Cyber & Digital Forensics
+     
+        
+        
+
 # Some Basic topics to become as an ethical Hacker
 
 * IT Act 2000
 * Footprinting
 * Scanning and Enumeration
 * Malware
-* sniffing
+* Sniffing
 * Social Engineering
 * DOS(Denial of service)
 * Session Hijacking
@@ -37,8 +61,7 @@
 * [Hacker101](https://www.hacker101.com/) – free, open-source video lessons on web security
 * [Hacksplaining](https://www.hacksplaining.com/lessons) – vulnerabilities explained simply
 * [Open Security Training](http://www.opensecuritytraining.info/) – free, open-source materials for computer security classes
-* [SANS](https://www.sans.org/) – professional paid information security training
-* [SANS Cyber Aces](https://tutorials.cyberaces.org/) – video tutorials with handouts and quizzes
+
 
 ## Other interesting lists
 
@@ -68,9 +91,19 @@ Please email: [vishal](mailto:vishalkumar770@rocketmail.com)
 
 ## Authors
 
-This list was compiled and is maintained by the members of the @TeamTechnojam 
-* Vishal [github](https://github.com/vishal6404/) [linkedin](https://www.linkedin.com/in/vishal6404/) [twitter](https://twitter.com/vishal6404)
+This list was compiled and is maintained by the members of the 
+* TeamTechnojam
+  [Twitter](https://twitter.com/technojam_gu) 
+  
+* Vishal 
+  [Github](https://github.com/vishal6404/) 
+  [Linkedin](https://www.linkedin.com/in/vishal6404/) 
+  [Twitter](https://twitter.com/vishal6404)
+
 * Praveen
+  [Github](https://github.com/hackgod512/) 
+  [Linkedin](https://www.linkedin.com/in/praveensinghinfo1/) 
+  [Twitter](https://twitter.com/Hackgod4)
 
 
 
