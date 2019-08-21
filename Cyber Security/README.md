@@ -52,6 +52,16 @@
 * [Practice CTF List](http://captf.com/practice-ctf/) – CTF practice sites and tools
 * [WeChall](https://www.wechall.net/active_sites) – a list of web challenges and practice sites
 
+## Career in Cybersecurity
+
+* Chief Information Security Officer(CISO)
+* Security Engineer
+* Security Architect
+* Security Analyst
+* Read teaming
+* Pentesting
+
+
 ## Do you want to contribute or share your comments?
 
 We highly appreciate new contributions, suggestions for improvement, or any other comments.  
