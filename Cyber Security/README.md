@@ -93,17 +93,17 @@ Please email: [vishal](mailto:vishalkumar770@rocketmail.com)
 
 This list was compiled and is maintained by the members of the 
 * TeamTechnojam
-  [Twitter](https://twitter.com/technojam_gu) 
+  * [Twitter](https://twitter.com/technojam_gu) 
   
 * Vishal 
-  [Github](https://github.com/vishal6404/) 
-  [Linkedin](https://www.linkedin.com/in/vishal6404/) 
-  [Twitter](https://twitter.com/vishal6404)
+  * [Github](https://github.com/vishal6404/) 
+  * [Linkedin](https://www.linkedin.com/in/vishal6404/) 
+  * [Twitter](https://twitter.com/vishal6404)
 
 * Praveen
-  [Github](https://github.com/hackgod512/) 
-  [Linkedin](https://www.linkedin.com/in/praveensinghinfo1/) 
-  [Twitter](https://twitter.com/Hackgod4)
+  * [Github](https://github.com/hackgod512/) 
+  * [Linkedin](https://www.linkedin.com/in/praveensinghinfo1/) 
+  * [Twitter](https://twitter.com/Hackgod4)
 
 
 
