@@ -1,5 +1,5 @@
 # Cyber Security Roadmap
-##Some Basic topics to become as an ethical Hacker
+# Some Basic topics to become as an ethical Hacker
 
 * IT Act 2000
 * Footprinting
