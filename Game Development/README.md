@@ -31,9 +31,14 @@ The order is as follows:-
 #Online Courses for becoming a game developer:
 
 Link1(Unity Certified Programmer)-https://www.coursera.org/specializations/unity-certified-programmer
+
 Link2(Unity XR: How to Build AR and VR Apps Specialization)-https://www.coursera.org/specializations/unity-xr
+
 Link3(Unity Developer 2D)-https://www.udemy.com/unitycourse/
+
 Link4(Unity Developer 3d)-https://www.udemy.com/unitycourse2/
+
 Link5(Cert Prep: Unity Fundamentals)-http://bit.ly/Unity-Fundamentals
+
 Link6(Unity Certified 3D Artist Specialization)-https://www.coursera.org/specializations/unity-3d-artist
 
