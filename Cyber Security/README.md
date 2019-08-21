@@ -64,7 +64,7 @@
 ## Do you want to contribute or share your comments?
 
 We highly appreciate new contributions, suggestions for improvement, or any other comments.  
-Please email: [vishal](vishalkumar770@rocketmail.com)
+Please email: [mailto](vishalkumar770@rocketmail.com)
 
 ## Authors
 
