@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web Developer `Roadmap`
 
 Below are the learning paths and technologies that you should follow if you want to become a web developer or a Full Stack Developer.
@@ -101,7 +100,3 @@ To do this we use certain tools available for free to use.
 
 
 Keep Learning
-
-=======
-# Web Development
->>>>>>> a693ead1e61f6518f2f148d6d8f8732e9d6de2d3
