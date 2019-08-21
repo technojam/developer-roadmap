@@ -68,7 +68,20 @@ Please email: [vishal](mailto:vishalkumar770@rocketmail.com)
 
 ## Authors
 
-This list was compiled and is maintained by the members of the @TeamTechnojam @Vishal @Praveen.
+This list was compiled and is maintained by the members of the @TeamTechnojam  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/vishal6404"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/vishal6404"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/vishal6404"
 
 
 
