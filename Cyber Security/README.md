@@ -15,12 +15,6 @@
 * Making Reports
 
 
-## Capture the Flag (CTF) games
-
-* [CTFd](https://ctfd.io/) – an open-source CTF platform
-* [CTFtime](https://ctftime.org/) – a public directory of all CTFs organized currently or in the past
-
-
 ## Online training grounds and practice challenges
 
 * [Avatao](https://avatao.com/) – challenges to practice cybersecurity skills
@@ -52,6 +46,11 @@
 * [Practice CTF List](http://captf.com/practice-ctf/) – CTF practice sites and tools
 * [WeChall](https://www.wechall.net/active_sites) – a list of web challenges and practice sites
 
+## Capture the Flag (CTF) games (Events to practice your skills)
+
+* [CTFd](https://ctfd.io/) – an open-source CTF platform
+* [CTFtime](https://ctftime.org/) – a public directory of all CTFs organized currently or in the past
+
 ## Career in Cybersecurity
 
 * Chief Information Security Officer(CISO)
@@ -65,7 +64,7 @@
 ## Do you want to contribute or share your comments?
 
 We highly appreciate new contributions, suggestions for improvement, or any other comments.  
-Please email: [vishal] (vishalkumar770@rocketmail.com)
+Please email: [vishal](vishalkumar770@rocketmail.com)
 
 ## Authors
 
