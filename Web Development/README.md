@@ -35,8 +35,7 @@ The first two provides structure and style but it’s the JavaScript which makes
 #### CSS Frameworks
 
 * **Bootstrap:**
-Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components.
-<br />
+Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components.<br />
 * **Materialize CSS:**
 Materialize CSS implements all the material design concepts and makes it easy for you to use.
 Created and designed by Google, Material Design is a design language that combines the classic principles of successful design along with innovation and technology. Google's goal is to develop a system of design that allows for a unified user experience across all their products on any platform.
