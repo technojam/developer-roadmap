@@ -95,8 +95,51 @@ To do this we use certain tools available for free to use.
 * Functional
 
 #### Server Side Rendering
+* **Python**
+* **Ruby**
+* **PHP**
+* **Node.js**
 
-... TO BE ADDED
+For the beginners, if you are just getting into backend development, we would recommend you to pick one of the scripting languages. For the quick-and-easy, go with Node.js or PHP.
 
+#### Learn Relational Database
+
+A relational database is a set of formally described tables from which data can be accessed or reassembled in many different ways without having to reorganize the database tables.
+
+* **Oracle**
+* **MySQL**
+* **MariaDB**
+* **PostgreSQL**
+* **MSSQL**
+
+#### Learn a FrameWork 
+* **For PHP - Laravel or Symfony**
+* **For Node.js - Express.js, Hapi.js**
+* **For GO - I prefer to code without framework**
+
+#### Learn NoSQL Database
+First understand what they are and how they are different from relational database and why they are needed.There are several different options.
+
+* **MongoDB**
+* **RethinkDB**
+* **Cassandra**
+* **Couchbase**
+
+#### Create RESTful APIs 
+A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data. Understand REST and learn how to make RESTful APIs.
+
+#### Authentication/Authorization 
+Learn about the differences and how to implement them 
+* **OAuth**
+* **Basic Authentication**
+* **Token Authentication**
+* **JWT**
+* **OpenID**
+
+#### Knowledge of Web Servers
+* **Apache**
+* **Nginx**
+* **Caddy**
+* **MS IIS**
 
 Keep Learning
