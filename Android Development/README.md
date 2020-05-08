@@ -133,6 +133,7 @@ ___
     -   __Local Unit Testing__
     -   __Instrumentation Testing__
 * Android Jetpack
+	-   __[Jetpack Compose](https://developer.android.com/jetpack/compose)__
 	-   __Foundation Components__
 		-   Android KTX
 	    -   AppCompat
@@ -176,6 +177,7 @@ Now its high time to get the version 1 of your app. Below are some of the rource
 	* [Networking](https://in.udacity.com/course/android-basics-networking--ud843)  
 	* [Data Storage](https://in.udacity.com/course/android-basics-data-storage--ud845)  
 	* [Firebase in a Weekend](https://in.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
+* __[JetPack Compose Tutorial](https://developer.android.com/jetpack/compose/tutorial)__
 
 
 
