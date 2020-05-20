@@ -1,6 +1,6 @@
 > # Data analysis involves sorting through massive amounts of unstructured information and deriving key insights from it. These insights are enormously valuable for decision-making at companies of all sizes.
 
-## 1 -Learn Python or R.
+## 1 - Learn Python or R.
 
 > https://www.edx.org/course/python-basics-for-data-science
 >> https://www.coursera.org/learn/data-analysis-with-python
@@ -20,6 +20,6 @@
 
 >> ### Audit the course and go for financial aid.
 
-## - For Best Practise and Data set(kaggle).
+## 5 - For Best Practise and Data set(kaggle).
 
 > https://www.kaggle.com/
