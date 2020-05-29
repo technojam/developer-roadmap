@@ -43,6 +43,16 @@ Created and designed by Google, Material Design is a design language that combin
 * **Semantic UI**
 Semantic allows developers to build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging, helping make front-end development a delightful experience. Semantic is responsively designed allowing your website to scale on multiple devices.
 
+* **Tailwind CSS**
+Tailwind CSS is a highly customizable, high-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+You can use tailwind via npm or directly if want to use it in your website then you can use its CDN.
+For more information you can go their website => https://tailwindcss.com/ 
+
+* **TailBlocks**
+It can only be used if you have attached tailwind css CDN or their dependencies. Like tailwind it is another most powerfull web frameworks you can use to design websites and make more attractive. It contain 15 different categories (ecommerce, blog, pricing and more...), Responsive, Dark/Light mode, Color variations.
+For more information you can visit their website => https://mertjf.github.io/tailblocks/
+You can visit their github repo. => https://github.com/mertJF/tailblocks
+
 #### Package Managers
 
 * **NPM:**
