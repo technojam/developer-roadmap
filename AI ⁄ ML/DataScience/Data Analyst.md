@@ -48,9 +48,9 @@
   
 1 - [Data Visualization with Tableau Specialization Offered By UCDAVIS](https://www.coursera.org/specializations/data-visualization?=)
 
-2 - [Tableau by Tutorials Point](https://www.youtube.com/watch?v=aHaOIvR00So)
+2 - [Tableau Full Course by edureka](https://www.youtube.com/watch?v=aHaOIvR00So)
 
-3 - [Tableau Full Course by edureka](https://www.youtube.com/playlist?list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK)
+3 - [Tableau by Tutorials Point](https://www.youtube.com/playlist?list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK)
 
 - Audit the course and go for financial aid.
 
