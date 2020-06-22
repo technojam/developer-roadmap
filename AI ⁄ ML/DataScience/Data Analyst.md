@@ -10,6 +10,7 @@
  <li> https://progate.com/languages/python </li>
  <li> https://www.udacity.com/course/introduction-to-python--ud1110 </li>
 </ol>
+
 ## 2-  Statistics & Probability 
 
 <ol>
