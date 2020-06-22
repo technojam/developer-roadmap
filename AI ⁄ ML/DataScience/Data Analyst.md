@@ -13,12 +13,16 @@
 
 ## 2-  Statistics & Probability 
 
+![probability](https://user-images.githubusercontent.com/44340485/85279533-32e92d80-b4a4-11ea-9466-82e852b64980.png)
+
+
 <ol>
   <li> https://www.khanacademy.org/math/statistics-probability </li>
   <li> https://www.youtube.com/watch?v=KbB0FjPg0mw </li>
 </ol>
 
 ## 3 -  Data Pre-processing, Data Visualization, Exploratory Data Analysis
+![data](https://user-images.githubusercontent.com/44340485/85279683-7774c900-b4a4-11ea-9605-1dc2a25888aa.png)
 <ol>
   <li> https://www.edx.org/course/computing-for-data-analysis</li>
   <li> https://www.udacity.com/course/data-visualization-nanodegree--nd197 </li>
@@ -28,6 +32,8 @@
   
  
 ## 4 - Data Visualization with Tableau Specialization
+![tableau](https://user-images.githubusercontent.com/44340485/85279877-c4589f80-b4a4-11ea-9a73-cd0b02a58a3f.jpg)
+
 
 <ol>
   
