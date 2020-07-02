@@ -4,7 +4,7 @@ Below are the learning paths and technologies that you should follow if you want
 
 ### Things you should know at first!
 
-These are the technologies and toold that you need to know or learn properly if you want to get into web development.
+These are the technologies and tools that you need to know or learn properly if you want to get into web development.
 
 * Git - Version Control System
 * GitHub
