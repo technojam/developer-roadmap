@@ -1,4 +1,4 @@
-# Before attempting the practical implementation of data science techniques learn theory, maths and statistics behind it.
+# A road map towards data science.
 
 ## Step1
 
@@ -11,3 +11,6 @@
 3 - There are more tutorial on youtube you can also refer them.
 
 3 - [Introduction to Python Programming Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+##  A personal tip before attempting the practical implementation of data science techniques learn theory, maths and statistics behind it.
+
