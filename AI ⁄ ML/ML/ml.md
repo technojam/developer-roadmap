@@ -108,7 +108,7 @@ This is specialization consist of 5 courses :
 1.[Standford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 # SVM
-1.[MIT courseware](https://developers.google.com/machine-learning/crash-course/)
+1.[MIT courseware](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
 
 
 # Blogs to Follow
