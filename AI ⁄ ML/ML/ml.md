@@ -40,6 +40,8 @@ Before starting ML or DL you need some basic understnading of underlying topics 
 2.[Calculus visual](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 3.[Calculus Theory](https://www.khanacademy.org/math/calculus-1)
+
+4.[Linear Algebra EBook](http://cs229.stanford.edu/section/cs229-linalg.pdf)
  
  Note : you only need derivatives
 
@@ -59,7 +61,15 @@ Before starting ML or DL you need some basic understnading of underlying topics 
 
 # Machine Learning 
 
-1. [Andrew Ng](https://www.coursera.org/learn/machine-learning) this highly recommended.
+1. [Andrew Ng Coursera](https://www.coursera.org/learn/machine-learning) this highly recommended.
+   
+   [Andrew Ng Youtube alternative](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
+2. [Machine Learning Lectures- Stanford](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+
+3. [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
+4. [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
 
 
@@ -96,6 +106,9 @@ This is specialization consist of 5 courses :
 
 # NLP
 1.[Standford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+# SVM
+1.[MIT courseware](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
 
 
 # Blogs to Follow
