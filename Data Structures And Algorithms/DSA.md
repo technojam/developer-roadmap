@@ -29,6 +29,7 @@ Once you are familiar with time complexities, I/O operations of online IDE’s a
 ->Lunch Time: This is a 3-hour contest meant for school students. A Lunchtime usually features 4 problems.
 
 * [CodeForces](http://codeforces.com/): 4 to 5 short contests of 2 hour in a month . This too like codechef have great editorials to its problems.
+* [Hackerrank](https://www.hackerrank.com/dashboard) 30 days of code: Good for practice purpose especially for a beginner.
 
 ### Digging a bit Deeper
 
@@ -53,8 +54,8 @@ After covering above mentioned algorithms, you should learn the rest of DSA in f
  Divide and Conquer
  Sieve of Eratosthenes
  
- #Resouces
- There are a plethora of resouces available on the internet. But we recommend you the following ones:
+ #Resources
+ There are a plethora of resouces available on the internet. We recommend you the following ones:
  * MIT 6.011, Introduction to Algorithms([youtube](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb))
  * Cousera's Stanford University's Algorithm Sepcializaton [link](https://www.coursera.org/specializations/algorithms). The whole program is divided into 4 courses. You can apply for a full financial aid by filling out their application.
  * Other youtube channels - [My Code School](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) .
