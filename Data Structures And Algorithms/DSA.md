@@ -23,13 +23,15 @@ Data structures and algorithms are the base of computer science. They play a  ma
 
 Once you are familiar with time complexities, I/O operations of online IDE’s and the above algorithms you can start with actual competitions for which the following 2 sites provide the best environment for competing with others:
 
+* [Hackerrank](https://www.hackerrank.com/dashboard) 30 days of code: Good for practice purpose especially for a beginner.
+
 * [Codechef](https://www.codechef.com): offers 3 monthly contests:
 ->Long Challenge: This is a 10-day long contest and is one of the best contest to start Competitive Programming with as it does not have any wrong answer penalty and gives you a lot of time to think and implement your solution for a particular problem. If you are a beginner, you first goal should be to do well in this challenge. If you are able to solve first 4-5 of the challenge, you are good to go. At the end of the challenge, make very sure to go through the editorial provided by them. This is extremely important.
 ->Cook-Off: This is a much shorter contest that lasts for 2.5 hours and features 5 problems of varying difficulty, this contest will teach you how to think and implement a solution within a given time constraint
 ->Lunch Time: This is a 3-hour contest meant for school students. A Lunchtime usually features 4 problems.
 
 * [CodeForces](http://codeforces.com/): 4 to 5 short contests of 2 hour in a month . This too like codechef have great editorials to its problems.
-* [Hackerrank](https://www.hackerrank.com/dashboard) 30 days of code: Good for practice purpose especially for a beginner.
+
 
 ### Digging a bit Deeper
 
