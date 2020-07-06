@@ -32,6 +32,8 @@ Before starting ML or DL you need some basic understnading of underlying topics 
 
 2.[Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
+3.[udemy](https://www.udemy.com/share/101r1i/)
+
 
 
 # Maths for ML 
