@@ -34,6 +34,10 @@ Before starting ML or DL you need some basic understnading of underlying topics 
 
 3.[udemy](https://www.udemy.com/share/101r1i/)
 
+4.[Telusko/Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+
+5.[pythonbook](https://goalkicker.com/PythonBook/)
+
 
 
 # Maths for ML 
