@@ -32,6 +32,12 @@ Before starting ML or DL you need some basic understnading of underlying topics 
 
 2.[Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
+3.[udemy](https://www.udemy.com/share/101r1i/)
+
+4.[Telusko/Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+
+5.[pythonbook](https://goalkicker.com/PythonBook/)
+
 
 
 # Maths for ML 
@@ -103,6 +109,8 @@ This is specialization consist of 5 courses :
 
 # Computer Vision 
 1.[Stanford CS231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+2.[Coursera](https://www.coursera.org/learn/computer-vision-basics) can only be accessed free through galgotias mail id
 
 # NLP
 1.[Standford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
