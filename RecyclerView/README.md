@@ -1,12 +1,13 @@
 # RecyclerView
-The RecyclerView widget is a more advanced and flexible version of ListView.
+RecyclerView is a viewgroup used to display similar type of data from a database. 
+Example: List of contacts.
 ## Implementation
-To implement a basic RecyclerView three sub-parts are needed to be constructed which offer the users the degree of control they require in making varying designs of their choice.
-  * **The Card Layout**:- It is an XML layout which will be treated as an item by the RecyclerView.
-  * **The ViewHolder**:- It is a java class that stores the reference to the layout views that have to be dynamically modified during the execution of the program by a list of data.
-  * **The Data Class**:- It is a custom java class that acts as a structure for holding the information for every item of the RecyclerView.
+Requirements to implement RecyclerView :
+  * **XML Layout**:- A format in which we display our data.
+  * **ViewHolder**:- It is the reference to layout which is dynamically modified during execution.
+  * **The Data Class**:- It is the structure for holding every item in the RecyclerView.
 ### Adapter Class
-The adapter is the main code responsible for RecyclerView. It holds the important methods dealing with the implementation of RecylcerView. Some methods of adapter class are 
+The adapter is the main class responsible for RecyclerView. It contains important methods dealing with the implementation of RecylcerView. Some methods of adapter class are 
   * onCreateViewHolder
   * onBindViewHolder
   * getItemCount
