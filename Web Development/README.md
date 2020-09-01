@@ -26,20 +26,21 @@ Choose any of the following to start at first!
 #### The Basics
 
 * **HTML & CSS:**
-HTML and CSS are the backbones of any website. HTML provides the structure while CSS provides the style and help them to look better and more visually appealing. If you want to become a serious frontend developer then you must master these two and to start with.
-<br />Where to Start? => https://css-tricks.com/where-do-you-learn-html-css-in-2019/
-<br />
+HTML and CSS are the backbones of any website. HTML provides the structure while CSS provides the style and help them to look better and more visually appealing. If you want to become a serious frontend developer then you must master these two and to start with.  
+Where to Start? => https://css-tricks.com/where-do-you-learn-html-css-in-2019/
+
 * **JavaScript:**
 The first two provides structure and style but it’s the JavaScript which makes them alive by adding interactiveness.
 
 #### CSS Frameworks
 
 * **Bootstrap:**
-Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components.<br />
+Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components.  
+
 * **Materialize CSS:**
 Materialize CSS implements all the material design concepts and makes it easy for you to use.
-Created and designed by Google, Material Design is a design language that combines the classic principles of successful design along with innovation and technology. Google's goal is to develop a system of design that allows for a unified user experience across all their products on any platform.
-<br />
+Created and designed by Google, Material Design is a design language that combines the classic principles of successful design along with innovation and technology. Google's goal is to develop a system of design that allows for a unified user experience across all their products on any platform.  
+
 * **Semantic UI**
 Semantic allows developers to build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging, helping make front-end development a delightful experience. Semantic is responsively designed allowing your website to scale on multiple devices.
 
