@@ -170,6 +170,12 @@ Now its high time to get the version 1 of your app. Below are some of the rource
 
 # Online Resources
 
+* __Documentation__
+	* [Android Developers Documentation](https://developer.android.com/guide/topics/ui)
+	
+* __Course Offered By Android__
+	* [List of courses offered by Android in both Java and Kotlin](https://developer.android.com/courses)
+
 * __Udacity__
 	* [Basic User Interface](https://in.udacity.com/course/android-basics-user-interface--ud834)
 	* [Basic User Input](https://in.udacity.com/course/android-basics-user-input--ud836) 
