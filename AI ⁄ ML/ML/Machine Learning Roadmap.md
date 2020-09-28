@@ -84,8 +84,11 @@
 [ESLII](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 ### Deep Learning：
+[Deep Learning](http://www.deeplearningbook.org/)
 
-[《Deep Learning》](https://book.douban.com/subject/27087503/)
+[Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
+
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 [Official website](http://www.deeplearningbook.org/)
 
