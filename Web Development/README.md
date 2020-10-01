@@ -44,6 +44,9 @@ Created and designed by Google, Material Design is a design language that combin
 * **Semantic UI**
 Semantic allows developers to build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging, helping make front-end development a delightful experience. Semantic is responsively designed allowing your website to scale on multiple devices.
 
+* [**Tailwind CSS:**](https://tailwindcss.com/)  
+Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.  
+
 #### Package Managers
 
 * **NPM:**
