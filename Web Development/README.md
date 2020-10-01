@@ -32,16 +32,20 @@ Where to Start? => https://css-tricks.com/where-do-you-learn-html-css-in-2019/
 * **JavaScript:**
 The first two provides structure and style but it’s the JavaScript which makes them alive by adding interactiveness.
 
+#### Resources
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+* [You Don't Know Js](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+
 #### CSS Frameworks
 
-* **Bootstrap:**
+* [**Bootstrap:**](https://getbootstrap.com/)
 Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components.  
 
-* **Materialize CSS:**
+* [**Materialize CSS:**](https://materializecss.com/)
 Materialize CSS implements all the material design concepts and makes it easy for you to use.
 Created and designed by Google, Material Design is a design language that combines the classic principles of successful design along with innovation and technology. Google's goal is to develop a system of design that allows for a unified user experience across all their products on any platform.  
 
-* **Semantic UI**
+* [**Semantic UI:**](https://semantic-ui.com/)
 Semantic allows developers to build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging, helping make front-end development a delightful experience. Semantic is responsively designed allowing your website to scale on multiple devices.
 
 * [**Tailwind CSS:**](https://tailwindcss.com/)  
