@@ -186,7 +186,36 @@ Now its high time to get the version 1 of your app. Below are some of the rource
 * __[JetPack Compose Tutorial](https://developer.android.com/jetpack/compose/tutorial)__
 
 
+# Youtube Links  
 
-
+   *__Stevdza-San__
+   *[Build a Chat App using Stream Chat SDK for Android](https://youtube.com/playlist?list=PLSrm9z4zp4mHWc6emIR_X4WcLLA5pD2Fp)
+   *[View Binding vs Data Binding](https://youtube.com/playlist?list=PLSrm9z4zp4mFwo3s-2r1uUNoTcLz77pCZ)
+   *[Hash Generator App](https://youtube.com/playlist?list=PLSrm9z4zp4mGmSn4w5fBs5EsRiQxTSl-r)
+   *[Kotlin Coroutines](https://youtube.com/playlist?list=PLSrm9z4zp4mE-o3sPq-PqzGHoFAIsQFI6)
+   *[Motion Layout in Action](https://youtube.com/playlist?list=PLSrm9z4zp4mHFX6JfhN46g8GR8Cyb7eSH)
+   *[Retrofit](https://youtube.com/playlist?list=PLSrm9z4zp4mF1Ssdfuocy2XH5Bw4wLLNw)
+   *[ROOM Database](https://youtube.com/playlist?list=PLSrm9z4zp4mEPOfZNV9O-crOhoMa0G2-o)
+   *[Navigation Component](https://youtube.com/playlist?list=PLSrm9z4zp4mHilvsfUM3jeCYFV3fTAS3J)
+   *[Sign in with Facebook + Firebase](https://youtube.com/playlist?list=PLSrm9z4zp4mEwkIcaZzq__H8WuR2W_t5v)
+   *[SQLite + Android - Create Database Schema ](https://youtube.com/playlist?list=PLSrm9z4zp4mGK0g_0_jxYGgg3os9tqRUQ)
+   *[Animations](https://youtube.com/playlist?list=PLSrm9z4zp4mGvMFZUqwN_wEE6uwSZ7uE7)
+   
+         
+   *__Anuj Bhaiya___
+     - [Android Development Tutorial for Absolute Beginners](https://youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb)
+         Projects cover 
+         > Meme share app 
+         > News app using news api and Volley
+         > Social media app using firebase
+         > note app using Room Database 
+         
+     
+   *__Cheeze code___
+   *[Android Architecture Components & Jetpack Intro in Hindi](https://youtube.com/playlist?list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2)  
+   
+   *__Coding Blocks___
+   *[Android: Google Maps Part ](https://youtube.com/playlist?list=PLl4Y2XuUavmsZk6VIItKVZEqUbUDKVs40) 
+   
 
 
