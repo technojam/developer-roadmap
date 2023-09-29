@@ -2,7 +2,7 @@
 
 This Roadmap is divided into two major parts:
 
-1. Machine Learnong 
+1. Machine Learning 
 2. Deep Learning 
 
 
