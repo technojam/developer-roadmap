@@ -30,7 +30,7 @@ Once you are familiar with time complexities, I/O operations of online IDE’s a
 ->Cook-Off: This is a much shorter contest that lasts for 2.5 hours and features 5 problems of varying difficulty, this contest will teach you how to think and implement a solution within a given time constraint
 ->Lunch Time: This is a 3-hour contest meant for school students. A Lunchtime usually features 4 problems.
 
-* [CodeForces](http://codeforces.com/): 4 to 5 short contests of 2 hour in a month . This too like codechef have great editorials to its problems.
+* [CodeForces](http://codeforces.com/): Start with div-4, then proceed towards div-1. Give 4 to 5 short contests of 2 hour in a month . This too like codechef have great editorials to its problems.
 
 
 ### Digging a bit Deeper
@@ -60,12 +60,15 @@ After covering above mentioned algorithms, you should learn the rest of DSA in f
  There are a plethora of resouces available on the internet. We recommend you the following ones:
  * MIT 6.011, Introduction to Algorithms([youtube](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb))
  * Cousera's Stanford University's Algorithm Sepcializaton [link](https://www.coursera.org/specializations/algorithms). The whole program is divided into 4 courses. You can apply for a full financial aid by filling out their application.
- * Other youtube channels - [My Code School](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) .
+ * Other youtube channels - [My Code School](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P), [C++ playlist](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA), [Dynamic Programming](https://www.youtube.com/watch?v=tyB0ztf0DNY&list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY)
 
 # Some Special Contests
 
 *  [Google Codejam](https://codingcompetitions.withgoogle.com/codejam): The competition happens annually. The top 25 contestants for the World Finals Round are brought onsite, and the winner gets a prize money of 15,000$. The top finishers are usually reached out for a potential job opportunity.
-*  [FaceBook Hackercup](https://www.facebook.com/hackercup/): The winner gets a prize money of 10,000$. Just as with CodeJam, the top finishers are reached out for a potential job opportunity. 
+*  [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart): These competitions are held throughout the year and participants may get a chance to be invited to interview at Google.
+*  [BME International](https://www.challenge24.org/): It is a 24-hour international programming contest.Only the 30 best teams gets an invitation to Budapest, Hungary, where the ‘real’ BME Challenge 24 takes place.
+*  [FaceBook Hackercup](https://www.facebook.com/hackercup/): The winner gets a prize money of 10,000$. Just as with CodeJam, the top finishers are reached out for a potential job opportunity.
+*  [Microsoft Imagine Cup](https://imaginecup.com/): This program invites participants to take on real-world problems submitted by IGOs, NGOs and non-profits that you can then take on as part of Imagine Cup project.The winner of the imagine cup receives cash prizes, Azure Grant, and a mentoring session with Microsoft CEO.
 *  [ACM ICPC](https://icpc.baylor.edu/): It is like the olympics of CP. Universities world over host online and regional onsite competitions, and the winners from these advance to the World Finals.
 
 Keep Learning.
