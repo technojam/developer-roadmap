@@ -16,7 +16,7 @@
 4 - [Python By Progate](https://progate.com/languages/python)
 
 5 - [Introduction to Python Programming Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
-
+6 - [Python Tutorial for Beginners by freeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
 
 ## 2-  Math for Data Analytics
 
@@ -51,6 +51,7 @@
 2 - [Tableau Full Course by edureka](https://www.youtube.com/watch?v=aHaOIvR00So)
 
 3 - [Tableau by Tutorials Point](https://www.youtube.com/playlist?list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK)
+4 - [Data analysis in Python with Pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 
 - Audit the course and go for financial aid.
 
