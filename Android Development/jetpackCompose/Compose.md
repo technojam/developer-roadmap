@@ -14,7 +14,7 @@ Welcome to the Android Compose Guide, designed to empower individuals at all lev
 
 Android Compose is a modern UI toolkit for building native Android user interfaces using a declarative approach. Unlike the traditional XML-based layout system, Compose lets you define your app's UI in a more intuitive and efficient way.
 
-Compose is a very intutive  way of writing drawable  UI components, direct in your activity, using declarative syntax!
+Compose is a very intutive  way of writing drawable  UI components, directly in your activity, using declarative syntax!
 
 ```Kotlin
 @Composable
@@ -100,4 +100,19 @@ This guide is designed to take you on a journey from the fundamentals to the adv
 ### Let's Embark on the Journey
 
 Whether you're a newcomer looking to build your first Android app or an experienced developer eager to embrace the future of Android development, this guide will equip you with the knowledge and skills to create stunning, responsive, and feature-rich Android applications. Let's dive into the exciting world of Android Compose and Jetpack integration!
+
+# Level 0 - Hello World!
+In this Unit, we are going to build a hello world app! 
+For this we will need to setup android studio, and get  
+you on-board and familiar with kotlin!
+
+So Let's go!!!
+
+
+## Prerequisites
+
+- Intermediate computer skills, including understanding file structure and using moderately complex applications, such as a spreadsheet, word processor, and photo editor.
+- Computer navigation skills, so that you can open and adjust settings and identify browser and operating system (OS) versions.
+Ability to verify system requirements (disk and memory space requirements, and screen resolution), and to download, install, and update software.
+## What you'll Learn
 
