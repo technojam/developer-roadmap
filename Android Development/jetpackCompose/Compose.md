@@ -115,4 +115,62 @@ So Let's go!!!
 - Computer navigation skills, so that you can open and adjust settings and identify browser and operating system (OS) versions.
 Ability to verify system requirements (disk and memory space requirements, and screen resolution), and to download, install, and update software.
 ## What you'll Learn
+- How to create an Android App with Android Studio
+- How to run apps with the Preview tool in Android Studio
+- How to update text with Kotlin
+- How to update a User Interface (UI) with Jetpack Compose
+- How to see a preview of your app with Preview in
+   Jetpack   Compose 
 
+### Let's get started:
+
+Here is what we will build for a quick hands on, a scaffold with a name display, it might sound boring, but it  is just the right stuff, to get started! 
+
+![project-target](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-app/img/13957184d295b16f_960.png)
+
+### Step 1 
+open Android Studio and Create a new project!
+
+![android studio welcome Screen](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-app/img/ae56cae7df0e4f09_960.png)
+
+### Step 2 
+Choose an empty Activity in the new project window
+![New Project windwow](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-app/img/935c2d9a4df8b864_960.png)
+In Android Studio, a project template is an Android project that provides the blueprint for a certain type of app. Templates create the structure of the project and the files needed for Android Studio to build your project. The template that you choose provides starter code to get you going faster.
+
+- Make sure the Phone and Tablet tab is selected.
+- Click the Empty Activity template to select it as the template for your project. 
+- The Empty Activity template is the template to create a simple project that you can use to build a Compose app. It has a single screen and displays the text "Hello Android!".
+Click Next.
+
+The New Project dialog opens. This has some fields to configure your project.
+
+### Step 3 
+Configure your project as follows:
+- The Name field is used to enter the name of your project, for this codelab type "Greeting Card".
+
+- Leave the Package name field as is. This is how your files will be organized in the file structure. In this case, the package name will be com.example.greetingcard.
+
+- Leave the Save location field as is. It contains the location where all the files related to your project are saved. Take a note of where that is on your computer so that you can find your files.
+
+- Select API 24: Android 7.0 (Nougat) from the menu in the Minimum SDK field. Minimum SDK indicates the minimum version of Android that your app can run on.
+
+![Project configuration ](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-app/img/c860e875eefd68b7_960.png)
+
+Click Finish. This may take a while - this is a great time to get a cup of tea! While Android Studio is setting up, a progress bar and message indicates whether Android Studio is still setting up your project. It may look like this:
+![Alt text](image.png)
+
+![GRADLE](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-app/img/3558f61a535db5d1_960.png)
+
+While, your project gets configured by the gradle build tools, let's get you familiar with your Developement enviorment...
+ - You may see a What's New pane which contains updates on new features in Android Studio. Close it for now.
+  ![](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-app/img/6a39d1ad2c904a64_960.png)
+- Click Split on the top right of Android Studio, this allows you to view both code and design. You can also click Code to view code only or click Design to view design only.
+  ![code/split/design Pane](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-app/img/b19824b6bdd2eb0e_960.png)
+
+  - After pressing Split you should see three areas:
+  ![](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-app/img/2490cde640ebe0f5_960.png)
+  This will be your very own, workspace around android studio and android development
+  - The Project view (1) shows the files and folders of your project
+  - The Code view (2) is where you edit code
+  - The Design View (3) is where you can see, wnhat you app looks like, thanks to stateless recomposition offered by compose
