@@ -1,15 +1,21 @@
 # Machine Learning And Deep Learning
 
 This Roadmap is divided into two major parts:
+```mermaid
+graph TD;
+    Roadmap-->Machine_Learning;
+    Roadmap-->Deep_Learning;
 
-1. Machine Learning 
+  
+```
+1. Machine Learning
 2. Deep Learning 
 
 
 
 # Prerequisites 
 
-Before starting ML or DL you need some basic understnading of underlying topics : --
+> [!TIP] Before starting ML or DL you need some basic understnading of underlying topics : --
 
 1.Linear Algebra
 
