@@ -26,11 +26,11 @@ Choose any of the following to start at first!
 #### The Basics
 
 * **HTML & CSS:**
-HTML and CSS are the backbones of any website. HTML provides the structure while CSS provides the style and help them to look better and more visually appealing. If you want to become a serious frontend developer then you must master these two and to start with.  
+HTML and CSS are the backbones of any website. HTML provides the structure while CSS provides the style and helps them to look better and more visually appealing. If you want to become a serious frontend developer then you must master these two to start with.  
 Where to Start? => https://css-tricks.com/where-do-you-learn-html-css-in-2019/
 
 * **JavaScript:**
-The first two provides structure and style but it’s the JavaScript which makes them alive by adding interactiveness.
+The first two provide structure and style but it’s the JavaScript that makes them alive by adding interactiveness.
 
 #### CSS Frameworks
 
